@@ -1,0 +1,74 @@
+[
+    {
+        "remote":       "github",
+        "account":      "razrqcom-dev-team",
+        "repository":   "android_vendor_motorola_xt925",
+        "target_path":  "vendor/motorola/xt925",
+        "revision":     "cm-10.1"
+    },
+    {
+        "remote":       "github",
+        "account":      "razrqcom-dev-team",
+        "repository":   "android_device_motorola_xt925",
+        "target_path":  "device/motorola/xt925",
+        "revision":     "cm-10.1"
+    },
+    {
+        "remote":       "github",
+        "account":      "razrqcom-dev-team",
+        "repository":   "android_device_motorola_msm8960-common",
+        "target_path":  "device/motorola/msm8960-common",
+        "revision":     "cm-10.1"
+    },
+
+    {
+        "remote":       "github",
+        "account":      "razrqcom-dev-team",
+        "repository":   "android_kernel_motorola_msm8960-common",
+        "target_path":  "kernel/motorola/msm8960-common",
+        "revision":     "cm-10.1"
+    },
+    {
+        "remote": "github",
+        "account": "CyanogenMod",
+        "repository": "android_hardware_qcom_audio-caf",
+        "target_path": "hardware/qcom/audio-caf",
+        "branch": "cm-10.1"
+    },
+    {
+        "remote": "github",
+        "account": "CyanogenMod",
+        "repository": "android_hardware_qcom_bt",
+        "target_path": "hardware/qcom/bt",
+        "branch": "cm-10.1"
+    },
+    {
+        "remote": "github",
+        "account": "razrqcom-dev-team",
+        "repository": "android_hardware_qcom_display",
+        "target_path": "hardware/qcom/display",
+        "branch": "cm-10.1"
+    },
+        {
+        "remote": "github",
+        "account": "CyanogenMod",
+        "repository": "android_hardware_qcom_gps",
+        "target_path": "hardware/qcom/gps",
+        "branch": "cm-10.1"
+    },
+    {
+        "remote": "github",
+        "account": "CyanogenMod",
+        "repository": "android_hardware_qcom_media",
+        "target_path": "hardware/qcom/media",
+        "branch": "cm-10.1"
+    },
+    {
+        "remote": "github",
+        "account": "CyanogenMod",
+        "repository": "android_hardware_qcom_wlan",
+        "target_path": "hardware/qcom/wlan",
+        "branch": "cm-10.1"
+    }
+]
+
