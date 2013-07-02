@@ -11,7 +11,7 @@
         "account":      "razrqcom-dev-team",
         "repository":   "android_device_motorola_xt897",
         "target_path":  "device/motorola/xt897",
-        "revision":     "cm-10.1"
+        "revision":     "master"
     },
     {
         "remote":       "github",
@@ -25,9 +25,8 @@
         "account":      "razrqcom-dev-team",
         "repository":   "android_device_motorola_msm8960-common",
         "target_path":  "device/motorola/msm8960-common",
-        "revision":     "cm-10.1"
+        "revision":     "pa"
     },
-
     {
         "remote":       "github",
         "account":      "razrqcom-dev-team",

@@ -1,11 +1,19 @@
 [
     {
+        "name":     "ParanoidAndroid/android_build",
+        "path":     "build"
+    },
+    {
         "name":     "ParanoidAndroid/android_system_core",
         "path":     "system/core"
     },
     {
         "name":     "platform/frameworks/av",
         "path":     "frameworks/av"
+    },
+    {
+        "name":     "ParanoidAndroid/android_frameworks_base",
+        "path":     "frameworks/base"
     },
     {
         "name":     "ParanoidAndroid/android_frameworks_native",

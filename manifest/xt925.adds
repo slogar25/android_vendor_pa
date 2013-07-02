@@ -1,6 +1,13 @@
 [
     {
         "remote":       "github",
+        "account":      "razrqcom-dev-team",
+        "repository":   "android_build",
+        "target_path":  "build",
+        "revision":     "pa"
+    },
+    {
+        "remote":       "github",
         "account":      "CyanogenMod",
         "repository":   "android_system_core",
         "target_path":  "system/core",
@@ -12,6 +19,13 @@
         "repository":   "android_frameworks_av",
         "target_path":  "frameworks/av",
         "revision":     "cm-10.1"
+    },
+    {
+        "remote":       "github",
+        "account":      "razrqcom-dev-team",
+        "repository":   "android_frameworks_base",
+        "target_path":  "frameworks/base",
+        "revision":     "pa"
     },
     {
         "remote":       "github",
