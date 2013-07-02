@@ -53,7 +53,7 @@
         "account":      "CyanogenMod",
         "repository":   "android_device_generic_armv7-a-neon",
         "target_path":  "device/generic/armv7-a-neon",
-	"revision":     "cm-10.1"
+        "revision":     "cm-10.1"
     },
     {
         "remote":       "github",
