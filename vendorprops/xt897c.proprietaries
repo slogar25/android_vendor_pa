@@ -16,6 +16,13 @@
     {
         "remote":       "github",
         "account":      "razrqcom-dev-team",
+        "repository":   "android_device_motorola_xt897",
+        "target_path":  "device/motorola/xt897",
+        "revision":     "cm-10.1"
+    },
+    {
+        "remote":       "github",
+        "account":      "razrqcom-dev-team",
         "repository":   "android_device_motorola_msm8960-common",
         "target_path":  "device/motorola/msm8960-common",
         "revision":     "cm-10.1"
@@ -44,9 +51,9 @@
     },
     {
         "remote": "github",
-        "account": "razrqcom-dev-team",
-        "repository": "android_hardware_qcom_display",
-        "target_path": "hardware/qcom/display",
+        "account": "CyanogenMod",
+        "repository": "android_hardware_qcom_display-caf",
+        "target_path": "hardware/qcom/display-caf",
         "branch": "cm-10.1"
     },
         {
