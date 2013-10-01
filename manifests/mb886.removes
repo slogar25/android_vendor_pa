@@ -1,0 +1,11 @@
+[
+    {
+        "name":     "platform/external/sepolicy",
+        "path":     "external/sepolicy"
+    },
+    {
+        "name":     "android_frameworks_av",
+        "path":     "frameworks/av"
+    }
+]
+
