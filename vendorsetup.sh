@@ -40,3 +40,8 @@ add_lunch_combo pa_ariesve-userdebug
 add_lunch_combo pa_geeb-userdebug
 add_lunch_combo pa_geespr-userdebug
 add_lunch_combo pa_mb886-userdebug
+add_lunch_combo pa_xt897-userdebug
+add_lunch_combo pa_xt897c-userdebug
+add_lunch_combo pa_xt907-userdebug
+add_lunch_combo pa_xt925-userdebug
+add_lunch_combo pa_xt926-userdebug
