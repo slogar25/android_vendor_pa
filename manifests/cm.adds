@@ -43,12 +43,6 @@
     },
     {
         "remote":       "cm",
-        "repository":   "android_external_lsof",
-        "target_path":  "external/lsof",
-        "revision":     "cm-10.2"
-    },
-    {
-        "remote":       "cm",
         "repository":   "android_external_lzo",
         "target_path":  "external/lzo",
         "revision":     "cm-10.2"
