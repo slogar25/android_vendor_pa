@@ -7,6 +7,18 @@
     },
     {
         "remote":       "cm",
+        "repository":   "android_packages_apps_Apollo",
+        "target_path":  "packages/apps/Apollo",
+        "revision":     "cm-10.2"
+    },
+    {
+        "remote":       "cm",
+        "repository":   "android_packages_apps_Torch",
+        "target_path":  "packages/apps/Torch",
+        "revision":     "cm-10.2"
+    },
+    {
+        "remote":       "cm",
         "repository":   "android_packages_apps_CMFileManager",
         "target_path":  "packages/apps/CMFileManager",
         "revision":     "cm-10.2"
@@ -51,18 +63,6 @@
         "remote":       "cm",
         "repository":   "android_external_nano",
         "target_path":  "external/nano",
-        "revision":     "cm-10.2"
-    },
-    {
-        "remote":       "cm",
-        "repository":   "android_external_ntfs-3g",
-        "target_path":  "external/ntfs-3g",
-        "revision":     "cm-10.2"
-    },
-    {
-        "remote":       "cm",
-        "repository":   "android_external_openssh",
-        "target_path":  "external/openssh",
         "revision":     "cm-10.2"
     },
     {
