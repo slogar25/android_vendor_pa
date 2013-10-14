@@ -55,6 +55,12 @@
     },
     {
         "remote":       "cm",
+        "repository":   "android_external_lsof",
+        "target_path":  "external/lsof",
+        "revision":     "cm-10.2"
+    },
+    {
+        "remote":       "cm",
         "repository":   "android_external_lzo",
         "target_path":  "external/lzo",
         "revision":     "cm-10.2"
@@ -63,6 +69,12 @@
         "remote":       "cm",
         "repository":   "android_external_nano",
         "target_path":  "external/nano",
+        "revision":     "cm-10.2"
+    },
+    {
+        "remote":       "cm",
+        "repository":   "android_external_ntfs-3g",
+        "target_path":  "external/ntfs-3g",
         "revision":     "cm-10.2"
     },
     {
