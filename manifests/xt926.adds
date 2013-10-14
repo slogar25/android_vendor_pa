@@ -138,5 +138,12 @@
         "repository":   "android_frameworks_av",
         "target_path":  "frameworks/av",
         "revision":     "cm-10.2"
+    },
+    {
+        "remote":       "github",
+        "account":      "LiquidSmooth",
+        "repository":   "android_system_qcom",
+        "target_path":  "system/qcom",
+        "revision":     "jb3"
     }
 ]
